@@ -1,1 +1,1 @@
-# PyTorch-Model-using-Resnet50
+# PyTorch Model using Resnet50
